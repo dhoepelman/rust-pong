@@ -1,0 +1,9 @@
+[package]
+name = "pong"
+version = "0.1.0"
+authors = ["David Hoepelman <d.j.hoepelman@portofrotterdam.com>"]
+edition = "2018"
+
+[dependencies]
+
+rand = "0.4.0"
