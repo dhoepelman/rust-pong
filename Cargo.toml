@@ -7,3 +7,7 @@ edition = "2018"
 [dependencies]
 
 rand = "0.4.0"
+
+[dependencies.rug]
+version = "0.6.0"
+features = ["integer"]
